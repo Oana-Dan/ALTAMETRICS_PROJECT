@@ -1,0 +1,35 @@
+.home_message{ 
+    display: flex;
+    justify-content: center;
+}
+
+.no_decoration {
+    text-decoration: none;
+}
+
+.css-1hskriy {
+    margin-top: 30vh;
+}
+
+.sidebar {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    position: relative !important;
+}
+
+.bills {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10vh;
+    margin-left: 10vw;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
